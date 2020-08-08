@@ -4,7 +4,8 @@ This is a short game I created for my thrid year module for Data and Machine Lea
 
 ## Getting Started
 
-Click on this link to play the game 
+Click on this link to play the game:
+https://hanauddin.github.io/PingPong/ 
 
 Reminder: When playing the game make sure you move your hands within the screen and not not go out of the screen or else it won't detect your hand 
 
