@@ -24,7 +24,7 @@ This was inspired by my two classmates using teachable machine learning to help 
 
 My second inspiration is the Youtube channel The Coding Train which is a Youtube channel that explores the P5.js library and shows the variety of ways of using the P5 library. https://www.youtube.com/watch?v=UPgxnGC8oBU: This video showed how a teachable machine can be incorporated within the P5 library.  
 
-##Bugs
+## Bugs
 
 There are a few bugs that I am currently fixing. Hopefully it will be fixed soon. 
 
