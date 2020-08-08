@@ -1,4 +1,4 @@
-# PingPong  (͠≖ ͜ʖ͠≖)👌
+# PingPong    (͠≖ ͜ʖ͠≖)👌
 
 This is a short game I created for my third-year module for Data and Machine Learning for Creative practice. This is a creative project that uses machine learning and/or data analysis techniques explored within the module. For this project, I decided to make a simple game which was a pong game that is played against an AI but instead of using the keyboard, you would use your hands to control the ball. 
 
