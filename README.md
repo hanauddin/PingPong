@@ -1,4 +1,3 @@
 # PingPong
 
-![4atx3e](https://user-images.githubusercontent.com/49173126/89716329-e39f8380-d9a3-11ea-96a2-ebfe8432c36a.gif)
- 
+![4atya0](https://user-images.githubusercontent.com/49173126/89716536-b05df400-d9a5-11ea-86e7-18ac73b4fcb7.gif)
